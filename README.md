@@ -1,14 +1,12 @@
+# Awesome JavaScript Ecosystem💜
 
+> Full Collection of JavaScript Ecosystem💜, resources and perfect things ect.
 
-# Awesome JavaScript Runtimes
-
-> A collection of awesome JavaScript runtiomes, resources and perfect things. 
-
-- [Awesome JavaScript Runtimes](#awesome-javascript-runtimes)
-	- [Runtimes](#runtimes)
-	- [App Frameworks](#app-frameworks)
-	- [Engines](#engines)
-	- [Links](#links)
+- [Awesome JavaScript Ecosystem💜](#awesome-javascript-ecosystem)
+  - [Runtimes](#runtimes)
+  - [App Frameworks](#app-frameworks)
+  - [Engines](#engines)
+  - [Links](#links)
 
 ## Runtimes
 
@@ -16,9 +14,21 @@
 
 ## App Frameworks
 
-<table>
-	<thead>
-		<tr><th>Framework</th><th>Target</th><th>Engine/Backend</th><th>Stars</th><th>Commit</th></tr></thead><tbody><tr><td><a href="https://www.electronjs.org">Electron</a></td><td>Desktop</td><td><a href="https://nodejs.org">Node.js</a></td><td><img src="https://img.shields.io/github/stars/electron/electron?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/electron/electron?style=flat-square"></td></tr><tr><td><a href="https://tauri.app">Tauri</a></td><td>Desktop</td><td><a href="https://nodejs.org">Node.js</a></td><td><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat-square"></td></tr><tr><td><a href="https://nwjs.io">nw.js</a></td><td>Desktop</td><td><a href="https://nodejs.org">Node.js</a></td><td><img src="https://img.shields.io/github/stars/nwjs/nw.js?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/nwjs/nw.js?style=flat-square"></td></tr><tr><td><a href="https://github.com/wailsapp/wails">Wails</a></td><td>Desktop</td><td>Go</td><td><img src="https://img.shields.io/github/stars/wailsapp/wails?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/wailsapp/wails?style=flat-square"></td></tr><tr><td><a href="https://docs.nodegui.org">NodeGUI</a></td><td>Desktop</td><td><a href="https://nodejs.org">Node.js</a></td><td><img src="https://img.shields.io/github/stars/nodegui/nodegui?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/nodegui/nodegui?style=flat-square"></td></tr><tr><td><a href="https://github.com/neutralinojs/neutralinojs">Neutralino</a></td><td>Desktop</td><td>native/custom</td><td><img src="https://img.shields.io/github/stars/neutralinojs/neutralinojs?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/neutralinojs/neutralinojs?style=flat-square"></td></tr><tr><td><a href="https://reactnative.dev/">React Native</a></td><td>Mobile</td><td><a href="https://hermesengine.dev">Hermes</a></td><td><img src="https://img.shields.io/github/stars/facebook/react-native?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/facebook/react-native?style=flat-square"></td></tr><tr><td><a href="https://capacitorjs.com">Capacitor</a></td><td>Mobile</td><td>(browser)</td><td><img src="https://img.shields.io/github/stars/ionic-team/capacitor?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/ionic-team/capacitor?style=flat-square"></td></tr><tr><td><a href="https://cordova.apache.org">Cordova</a></td><td>Mobile</td><td>(browser)</td><td><img src="https://img.shields.io/github/stars/apache/cordova?style=flat-square"></td><td><img src="https://img.shields.io/github/last-commit/apache/cordova?style=flat-square"></td></tr></tbody></table>
+---
+
+| App Framework                            | GitHub Repository                                                         | Target         | Engines/Backend                                      | Stars                                                                                 | Commit                                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------- | -------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Electron](https://www.electronjs.org)   | [electron/electron](https://github.com/electron/electron)                 | Desktop        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/electron/electron?style=flat-square)         | ![e](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat-square)          |
+| [Tauri](https://tauri.app)               | [tauri-apps/tauri](https://github.com/tauri-apps/tauri)                   | Desktop        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square)          | ![e](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=flat-square)          |
+| [nw.js](https://nwjs.io)                 | [nwjs/nw.js](https://github.com/nwjs/nw.js)                               | Desktop        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/nwjs/nw.js?style=flat-square)                | ![e](https://img.shields.io/github/last-commit/nwjs/nw.js?style=flat-square)                |
+| [NodeGUI](https://docs.nodegui.org/)     | [nodegui/nodegui](https://github.com/nodegui/nodegui)                     | Cross-platform | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/nodegui/nodegui?style=flat-square)           | ![e](https://img.shields.io/github/last-commit/nodegui/nodegui?style=flat-square)           |
+| [Neutralino](https://neutralino.js.org/) | [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) | Desktop        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/neutralinojs/neutralinojs?style=flat-square) | ![e](https://img.shields.io/github/last-commit/neutralinojs/neutralinojs?style=flat-square) |
+| [React Native](https://reactnative.dev/) | [facebook/react-native](https://github.com/facebook/react-native)         | Android & iOS  | [Hermes](https://hermesengine.dev/)                  | ![e](https://img.shields.io/github/stars/facebook/react-native?style=flat-square)     | ![e](https://img.shields.io/github/last-commit/facebook/react-native?style=flat-square)     |
+| [Capacitor](https://capacitorjs.com/)    | [ionic-team/capacitor](https://github.com/ionic-team/capacitor)           | Mobile         | [Browser](https://en.wikipedia.org/wiki/Web_browser) | ![e](https://img.shields.io/github/stars/ionic-team/capacitor?style=flat-square)      | ![e](https://img.shields.io/github/last-commit/ionic-team/capacitor?style=flat-square)      |
+| [Cordova](https://cordova.apache.org/)   | [apache/cordova-android](https://github.com/apache/cordova-android)       | Android        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/apache/cordova-android?style=flat-square)    | ![e](https://img.shields.io/github/last-commit/apache/cordova-android?style=flat-square)    |
+| [Cordova](https://cordova.apache.org/)   | [apache/cordova-ios](https://github.com/apache/cordova-ios)               | iOS            | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/apache/cordova-ios?style=flat-square)        | ![e](https://img.shields.io/github/last-commit/apache/cordova-ios?style=flat-square)        |
+| [Cordova](https://cordova.apache.org/)   | [apache/cordova-browser](https://github.com/apache/cordova-browser)       | Web App        | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/apache/cordova-browser?style=flat-square)    | ![e](https://img.shields.io/github/last-commit/apache/cordova-browser?style=flat-square)    |
+| [Cordova](https://cordova.apache.org/)   | [apache/cordova-electron](https://github.com/apache/cordova-electron)     | Cross-platform | [Node.js](https://nodejs.org)                        | ![e](https://img.shields.io/github/stars/apache/cordova-electron?style=flat-square)   | ![e](https://img.shields.io/github/last-commit/apache/cordova-electron?style=flat-square)   |
 
 ## Engines
 
