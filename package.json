@@ -1,0 +1,13 @@
+{
+	"name": "awesome-js-runtimes",
+	"description": "A collection of awesome JavaScript runtiomes, resources and perfect things. ",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": {
+		"name": "mirasayon",
+		"email": "mirasayon@ya.ru",
+		"url": "https://github.com/mirasayon"
+	},
+	"private": true,
+	"scripts": {}
+}
