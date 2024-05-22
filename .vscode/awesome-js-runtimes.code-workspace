@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "html.format.wrapLineLength": 900,
+    "editor.wrappingIndent": "none",
+    "editor.wordWrapColumn": 900,
+    "debug.console.wordWrap": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderLineHighlight": "all",
+    "markdown.preview.breaks": true,
+    "editor.wordWrap": "off"
+  }
+}

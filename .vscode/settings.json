@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "html.format.wrapLineLength": 900,
+  "editor.wrappingIndent": "none",
+  "editor.wordWrapColumn": 9000
+}
