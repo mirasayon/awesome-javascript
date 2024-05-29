@@ -1,8 +1,8 @@
-# Awesome JavaScript Ecosystem💜
+# Awesome JavaScript Ecosystem
 
-> Full Collection of JavaScript Ecosystem💜, resources and perfect things ect.
+> Full Collection of JavaScript Ecosystem, resources and perfect things ect.
 
-- [Awesome JavaScript Ecosystem💜](#awesome-javascript-ecosystem)
+- [Awesome JavaScript Ecosystem](#awesome-javascript-ecosystem)
   - [Runtimes](#runtimes)
   - [App Frameworks](#app-frameworks)
   - [Engines](#engines)
